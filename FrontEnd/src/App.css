@@ -24,7 +24,7 @@
 body {
   /* background: linear-gradient(to right, var(--grey),var(--bg),url(./utils/bg1.jpg)); */
   display: flex;
-  background: rgba(0, 0, 0, 0.2) url(./utils/bg2.jpg);
+  background: rgba(0, 0, 0, 0.2) url(./utils/pexels-olia-danilevich-5088017.jpg);
   transition: background-color 1s;
   background-repeat: no-repeat;
   background-position: center;
